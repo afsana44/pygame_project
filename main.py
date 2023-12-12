@@ -9,6 +9,8 @@ import time
 import random
 delay = 0.1
 
+#test git
+
 # Score
 score = 0
 high_score = 0
