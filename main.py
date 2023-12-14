@@ -10,9 +10,7 @@ import random
 
 delay = 0.1
 
-s = turtle.getscreen()
-
-
+s = turtle.getscreen()     
 
 
 # Score
